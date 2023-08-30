@@ -9,3 +9,4 @@ coverage
 .eslintrc.js
 tsconfig.build.json
 puppeteer-session
+puppeteer-outlook-session
